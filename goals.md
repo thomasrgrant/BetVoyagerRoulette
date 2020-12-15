@@ -33,7 +33,7 @@ Goals...
 Work out how to do bets.
 How to do cash flow.
 Ad in a random function.
-To test out well it peforms with random numbers.
+To test out how well it peforms with random numbers.
 
 Long term goals...
 See if I can figure out how to add in AI into the script.
