@@ -4,20 +4,35 @@ Tom's BetVoyager No ZERO (no flash) Roulette Bot GUI V2.2 made in Python
 You will need to install the Python Librarys yourself...
 
 #Librarys
+
 import tkinter as tk
+
 #from tkinter import ttk
+
 from tkinter import * 
+
 import requests
+
 import PIL.ImageGrab
+
 from PIL import ImageTk,Image
+
 from tkinter import messagebox
+
 import pyautogui
+
 import time
+
 import datetime
+
 import cv2
+
 import pytesseract
+
 import os 
+
 from os import path
+
 #Librarys
 
 (A work in progress)
