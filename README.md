@@ -13,7 +13,7 @@ Possibly use AI to test out betting methods. To see what is the best bet to make
 And add any other ideas as I go along...																		
 
 
- NOTES: 
+NOTES: 
 NOTE: BetVoyager No ZERO (no flash) in FireFox. 
 As if you leave chrome alone. The screen blanks out. 
 And you have to reaload the page again.
@@ -22,7 +22,7 @@ NOTE: All x, y positons are for Firefox with the menu bar open in 100% view mode
 Once the BetVoyager download works. I will be working from there.
  NOTES: 
 
- Tasks done :) 
+Tasks done :) 
 Things I have Done...
 Create the GUI and make it look good. Done
 Create a folder for the images for the screen grab. Done
@@ -30,11 +30,11 @@ Screen Grab blank area image and see if it matches the area that it is looking f
 Use this roulette area for the yellowarea.png. Done
  Tasks done :) 
 
- Flow (Structure) (What happens in the script)
+Flow (Structure) (What happens in the script)
 1.Make a folder for images. Done.
- Flow (Structure) (What happens in the script)
+Flow (Structure) (What happens in the script)
 
- Things to do and figure out (Tasks:) 
+Things to do and figure out (Tasks:) 
 Tasks to figure out...
 Disable a button once its done something.
 then the difficult part.
@@ -46,3 +46,5 @@ work out stats for all bets.
 place all bet positions.
 Python Code Tasks... (This will take longer...)
  Things to do and figure out (Tasks:) 
+ 
+[![Tom's BetVoyager No ZERO (no flash) Roulette Bot GUI V2.3 made in Python](https://img.youtube.com/vi/a5GHIRte8mk/0.jpg)](https://www.youtube.com/watch?v=a5GHIRte8mk)
