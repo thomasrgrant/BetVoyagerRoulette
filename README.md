@@ -4,7 +4,7 @@ Tom's BetVoyager No ZERO (no flash) Roulette Bot GUI made in Python
 Created and writen by Thomas Grant. https://www.facebook.com/thomasrgrant/										
 																												
 Created: 02/12/2020 written in Sublime and Notepad ++															
-Used Snagit for and pyautogui for screen capture.																
+Used Snagit and pyautogui for screen capture.																
 																												
 Purpose: To play roulette on BetVoyager No ZERO roulette tables.												
 To match the icoming number. And see if can find it on the screen												
