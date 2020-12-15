@@ -33,20 +33,23 @@ Use this roulette area for the yellowarea.png. Done
  Tasks done :) 
 
 Flow (Structure) (What happens in the script)
-1.Make a folder for images. Done.
+
+1.Make a folder for images. 
+Done.
+
 Flow (Structure) (What happens in the script)
 
-Things to do and figure out (Tasks:) 
+Things to do and figure out (Tasks:)
 Tasks to figure out...
 Disable a button once its done something.
-then the difficult part.
-figure out how to bet.
-figure out what to bet on.
-see if you can fiugre out how to add in AI
+Then the difficult part.
+Figure out how to bet.
+Figure out what to bet on.
+See if you can fiugre out how to add in AI.
 Do a random test.
-work out stats for all bets.
-place all bet positions.
+Work out stats for all bets.
+Place all bet positions.
 Python Code Tasks... (This will take longer...)
- Things to do and figure out (Tasks:) 
+Things to do and figure out (Tasks:) 
  
 [![Tom's BetVoyager No ZERO (no flash) Roulette Bot GUI V2.3 made in Python](https://img.youtube.com/vi/a5GHIRte8mk/0.jpg)](https://www.youtube.com/watch?v=a5GHIRte8mk)
