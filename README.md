@@ -13,14 +13,16 @@ Possibly use AI to test out betting methods. To see what is the best bet to make
 And add any other ideas as I go along...																		
 
 
-NOTES: 
+NOTES:
+
 NOTE: BetVoyager No ZERO (no flash) in FireFox. 
 As if you leave chrome alone. The screen blanks out. 
 And you have to reaload the page again.
 
 NOTE: All x, y positons are for Firefox with the menu bar open in 100% view mode.
 Once the BetVoyager download works. I will be working from there.
- NOTES: 
+
+NOTES: 
 
 Tasks done :) 
 Things I have Done...
